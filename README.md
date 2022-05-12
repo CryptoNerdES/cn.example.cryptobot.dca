@@ -16,4 +16,4 @@ Day 6: BTC goes up 4% at 7:00 AM, we sell the position. Nice trade
 
 The idea is to sell BTC goes up of our entry price, and buy while we are losing, reducing the entry price of our trade.
 
-This Strategy is only for BTC, this is because the other cryptocurrencies are not enought stable. You can try with ETH but is not recommended to do with other altcoins.
+This Strategy is only for BTC, this is because the other cryptocurrencies are not enough stable. You can try with ETH but is not recommended to do with other altcoins.
