@@ -5,7 +5,7 @@ PROJECT_NAME := cn.example.api.user
 build-linux:
 	@env GOOS=linux GOARCH=amd64 go build -o bin/$(PROJECT_NAME)-linux
 
-tests:
+test-app:
 	go test -v ./...
 
 install-deps:
